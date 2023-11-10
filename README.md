@@ -19,9 +19,10 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [freelancermap](https://www.freelancermap.com/it-projects.html)                          | 80,000         |            | Developers, Engineers, Consultants, Others|
 | [StoreTasker](https://www.storetasker.com/)                                              | 100,000        |            | Shopify Developers                        |
 | [Soshace](https://www.soshace.com/)                                                      | 100,000        |            | Developers                                |
-| [Adeva](https://adevait.com/)                                             		       | 200,000        |            | Designers, Developers, & QA               |
+| [Adeva](https://adevait.com/)                                             		             | 200,000        |            | Designers, Developers, & QA               |
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Worksome](https://worksome.co.uk/)                                                      | 2,000,000      |            | Consultants, Data Scientists, & Developers|
+| [Laotop](https://www.laotop.fr)                                                          | 2,000,000      |            | Consultants, devops,& Developers|
 | **Tutoring**                                                                             |                |            |                                           |
 | [CodeMentor.io](https://www.codementor.io)                                               | 10,000         | Tutoring   | Developers                                |
 | **Other**                                                                                |                |            |                                           |
@@ -76,6 +77,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
   * [Codeur](https://www.codeur.com/) - Leader in France.
   * [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
   * [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
+  * [Laotop](https://www.laotop.fr/) - French platform that search and qualify IT freelancers for each mission.
 * Denmark
   * [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
 * Dutch
@@ -133,6 +135,7 @@ Thank you for looking :) Good hunting!
 - https://remotework.fyi/
 - https://www.vollna.com/
 - https://remotebond.com/
+- https://www.laotop.fr/
 
 ### Bounties based and open source
 - https://gitcoin.co
